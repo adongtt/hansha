@@ -16,10 +16,10 @@ FOLDER_DICT = {
     "tcx": TCX_FOLDER,
     "fit": FIT_FOLDER,
 }
-SQL_FILE = os.path.join(parent, "run_page", "data1.db")
-JSON_FILE = os.path.join(parent, "src", "static", "activities1.json")
-SYNCED_FILE = os.path.join(parent, "imported1.json")
-SYNCED_ACTIVITY_FILE = os.path.join(parent, "synced_activity1.json")
+SQL_FILE = os.path.join(parent, "run_page", "data.db")
+JSON_FILE = os.path.join(parent, "src", "static", "activities.json")
+SYNCED_FILE = os.path.join(parent, "imported.json")
+SYNCED_ACTIVITY_FILE = os.path.join(parent, "synced_activity.json")
 
 # TODO: Move into nike_sync NRC THINGS
 
